@@ -1,0 +1,43 @@
+/* Add your styling here */
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+  }
+  h1 {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #333;
+    color: white;
+  }
+  form {
+    text-align: center;
+    padding: 10px;
+  }
+  input {
+    padding: 8px;
+    width: 200px;
+    margin-right: 10px;
+  }
+  button {
+    padding: 8px 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  div {
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    width: 300px;
+    margin: 20px auto;
+  }
+  img{
+      width: 100px;
+      height: 100px;
+      margin: 0 auto;
+  }
+  
